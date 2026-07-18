@@ -16,11 +16,9 @@
 
 ⚙️ Minecraft Plugin Developer
 
-🤖 Discord Bot Developer
-
 ☕ Java Enthusiast
 
-🚀 18 Years Old
+🚀 20 Years Old
 
 💙 Building custom systems for Minecraft communities.
 
@@ -49,12 +47,6 @@
 🎮 **RexoCraft**
 
 ---
-
-# 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea,vscode,discord" />
-</p>
 
 ### Technologies
 
