@@ -16,6 +16,8 @@
 
 ⚙️ Minecraft Plugin Developer
 
+⚙️ Discord Bot Developer
+
 ☕ Java Enthusiast
 
 🚀 20 Years Old
@@ -26,7 +28,13 @@
 
 # 🚀 Featured Projects
 
+## 🔹 Discord Bots
+
+🧩 **SoloLeveling** - *A magical discord bot.* `v4.3.1`
+
 ## 🔹 Minecraft Plugins
+
+🧩 **CTReports** - *Advanced report system for your minecraft server.* `v1.0`
 
 🧩 **QueryPlus** - *Simple Rest API query for your minecraft network.* `v1.2.0`
 
@@ -44,17 +52,15 @@
 
 ## 🌍 Minecraft Server
 
-🎮 **RexoCraft**
+🎮 **RexoCraft** (Dev)
+🎮 **FlameCraft** (Owner)
 
 ---
 
 ### Technologies
 
 - Java
-- Paper API
-- Spigot API
-- Bukkit API
-- Discord JDA
+- NodeJS
 - MySQL
 - MariaDB
 - SQLite
@@ -98,7 +104,7 @@
   <a href="https://github.com/master-cblock">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/598568609245298849">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
